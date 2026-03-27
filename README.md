@@ -2,7 +2,7 @@
 
 A Linux port of [Chops](https://github.com/Shpigford/chops) - Your AI agent skills, finally organized.
 
-![Chops Screenshot](screenshot.png)
+![Chops Screenshot](Screenshot from 2026-03-27 07-32-05.png)
 
 ## Overview
 
